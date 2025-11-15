@@ -114,13 +114,13 @@ sahayata_ai/
 │── README.md
 
 🚀 How to Run Locally
-1. Install Requirements
-(```bash
+##1. Install Requirements
+```bash
 pip install -r requirements.txt
-python main.py)
+python main.py
 
 ##2. Add Your API Key
-Create .env:
+     Create .env:
 
 ```bash  GEMINI_API_KEY=your_key_here
 
@@ -128,7 +128,7 @@ Create .env:
 
 ```bash  python app.py
 
-🧪 Example Queries
+##🧪 Example Queries
 
 “Explain PM Awas Yojana in simple words.”
 
