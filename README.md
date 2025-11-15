@@ -115,16 +115,19 @@ sahayata_ai/
 
 🚀 How to Run Locally
 1. Install Requirements
-
+2.'''bash
 pip install -r requirements.txt
+python main.py
 
 ##2. Add Your API Key
 
 Create .env:
+'''bash
 
 GEMINI_API_KEY=your_key_here
 
 3. Run the App
+   '''bash
 python app.py
 
 🧪 Example Queries
@@ -166,5 +169,8 @@ Impact
 (Optional but recommended)
 
 You can deploy using:
-
+```bash
 gcloud run deploy
+
+
+
