@@ -9,12 +9,6 @@
 - 📈 Resource optimization
 - 💬 Multi-language communication
 
-## Quick Start
-```bash
-pip install -r requirements.txt
-python main.py
-
-
 ##📌 Overview
 
 Sahayata AI is an Agent for Good designed to provide clear, simplified, and accessible guidance on essential public information including government schemes, educational opportunities, health awareness, safety guidelines, and environmental practices.
