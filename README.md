@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python main.py
 
 
-📌 Overview
+##📌 Overview
 
 Sahayata AI is an Agent for Good designed to provide clear, simplified, and accessible guidance on essential public information including government schemes, educational opportunities, health awareness, safety guidelines, and environmental practices.
 
@@ -121,9 +121,10 @@ sahayata_ai/
 
 🚀 How to Run Locally
 1. Install Requirements
+
 pip install -r requirements.txt
 
-2. Add Your API Key
+##2. Add Your API Key
 
 Create .env:
 
