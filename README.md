@@ -122,12 +122,12 @@ python main.py)
 ##2. Add Your API Key
 
 Create .env:
-(```bash 
-GEMINI_API_KEY=your_key_here)
+```bash 
+GEMINI_API_KEY=your_key_here
 
-3. Run the App
-(  ```bash
- python app.py)
+##3. Run the App
+```bash
+ python app.py
 
 🧪 Example Queries
 
